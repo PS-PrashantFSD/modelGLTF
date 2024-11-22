@@ -611,30 +611,30 @@
   "buffers": [
     {
       "byteLength": 428484,
-      "uri": "scene.bin"
+      "uri": "https://github.com/PS-PrashantFSD/modelGLTF/blob/97acc1f561042fa97318734b09c8666f0cdefb88/scene.bin"
     }
   ],
   "images": [
     {
-      "uri": "textures/miniHouse_Part4_baseColor.png"
+      "uri": "https://cdn.glitch.global/5a26c4cc-be53-4a70-b7fd-4200ce1ded89/miniHouse_Part4_baseColor.png?v=1732281845778"
     },
     {
-      "uri": "textures/miniHouse_Part3_baseColor.png"
+      "uri": "https://cdn.glitch.global/5a26c4cc-be53-4a70-b7fd-4200ce1ded89/miniHouse_Part3_baseColor.png?v=1732281841647"
     },
     {
-      "uri": "textures/House_Part_02_baseColor.png"
+      "uri": "https://cdn.glitch.global/5a26c4cc-be53-4a70-b7fd-4200ce1ded89/House_Part_02_baseColor.png?v=1732281821746"
     },
     {
-      "uri": "textures/House_Part_01_baseColor.png"
+      "uri": "https://cdn.glitch.global/5a26c4cc-be53-4a70-b7fd-4200ce1ded89/House_Part_01_emissive.png?v=1732281833602"
     },
     {
-      "uri": "textures/House_Part_01_emissive.png"
+      "uri": "https://cdn.glitch.global/5a26c4cc-be53-4a70-b7fd-4200ce1ded89/House_Part_01_baseColor.png?v=1732281851960"
     },
     {
-      "uri": "textures/House_Part_01_alpha_baseColor.png"
+      "uri": "https://cdn.glitch.global/5a26c4cc-be53-4a70-b7fd-4200ce1ded89/House_Part_01_alpha_baseColor.png?v=1732281847224"
     },
     {
-      "uri": "textures/House_Part_01_alpha_emissive.png"
+      "uri": "https://cdn.glitch.global/5a26c4cc-be53-4a70-b7fd-4200ce1ded89/House_Part_01_alpha_emissive.png?v=1732281851625"
     }
   ],
   "materials": [
